@@ -1,1 +1,1 @@
-# Pokedex
+# Pokedex app with JavaScript
